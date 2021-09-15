@@ -1,0 +1,268 @@
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - POST /v1/auth/register 201 - 89.125 ms
+error: ::1 - POST /v1/auth/register 400 - 6.142 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 4.173 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.115 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.334 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.309 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.021 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.990 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.364 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.995 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.290 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.305 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.276 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 4.087 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.692 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.255 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.243 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.805 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.371 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.349 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.812 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 429 - 0.829 ms - message: -
+error: ::1 - POST /v1/auth/register 429 - 1.024 ms - message: -
+error: ::1 - POST /v1/auth/register 429 - 0.554 ms - message: -
+error: ::1 - POST /v1/auth/register 429 - 0.594 ms - message: -
+error: ::1 - POST /v1/auth/register 429 - 0.600 ms - message: -
+error: ::1 - POST /v1/auth/register 429 - 0.627 ms - message: -
+error: ::1 - POST /v1/auth/register 429 - 0.628 ms - message: -
+info: Connected to MongoDB
+info: Listening to port 3000
+error: ::1 - POST /v1/auth/register 400 - 28.035 ms - message: Email already taken
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - POST /v1/auth/register 400 - 5.105 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 4.846 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 500 - 3.893 ms - message: Usersss is not defined
+error: ::1 - POST /v1/auth/register 500 - 2.983 ms - message: Usersss is not defined
+error: ::1 - POST /v1/auth/register 500 - 2.959 ms - message: Usersss is not defined
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - POST /v1/auth/register 201 - 83.968 ms
+error: ::1 - GET /v1/auth/ 404 - 81.474 ms - message: Not found
+error: ::1 - GET /v1/auth/ 404 - 1.059 ms - message: Not found
+error: ::1 - POST /v1/auth/register 400 - 231.397 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 23.328 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.837 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 25.274 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 3.786 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.754 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.817 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 5.909 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.895 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 2.762 ms - message: Email already taken
+info: ::1 - POST /v1/auth/register 201 - 193.910 ms
+error: ::1 - GET /v1/auth/getUsers 404 - 0.711 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.561 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.714 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.554 ms - message: Not found
+info: Connected to MongoDB
+info: Listening to port 3000
+error: ::ffff:127.0.0.1 - GET /v1/auth/getUsers 404 - 4.673 ms - message: Not found
+error: ::ffff:127.0.0.1 - GET /v1/auth/getUsers 404 - 1.393 ms - message: Not found
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/auth/getUsers 404 - 5.179 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 1.402 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.598 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.557 ms - message: Not found
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/auth/getUsers 404 - 4.943 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 1.344 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.539 ms - message: Not found
+error: ::1 - GET /v1/auth/getUsers 404 - 0.579 ms - message: Not found
+error: ::1 - POST /v1/auth/register 400 - 25.368 ms - message: Email already taken
+error: ::1 - POST /v1/auth/register 400 - 6.026 ms - message: Email already taken
+info: ::1 - POST /v1/auth/register 201 - 57.945 ms
+error: ::1 - GET /v1/auth/getUsers 404 - 0.596 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers 401 - 1.556 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.789 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.572 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.614 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.607 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.638 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.627 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.732 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.602 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.620 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 0.544 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 401 - 1.214 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers 403 - 3.865 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 2.177 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 3.711 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 2.355 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 2.711 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 1.911 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 4.628 ms - message: Forbidden
+info: ::1 - POST /v1/auth/register 201 - 32.200 ms
+error: ::1 - GET /v1/users/getUsers 403 - 2.192 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 2.274 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 1.964 ms - message: Forbidden
+error: ::1 - POST /v1/auth/register 400 - 2.714 ms - message: Email already taken
+error: ::1 - POST /v1/auth/login 400 - 2.286 ms - message: "name" is not allowed
+info: ::1 - POST /v1/auth/login 200 - 24.562 ms
+error: ::1 - GET /v1/users/getUsers 403 - 2.071 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 2.506 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 1.812 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 1.803 ms - message: Forbidden
+error: ::1 - GET /v1/user/getUsers 404 - 0.529 ms - message: Not found
+error: ::1 - GET /v1/user/getUsers 404 - 0.363 ms - message: Not found
+error: ::1 - GET /v1/user/getUsers 404 - 0.581 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers 403 - 1.821 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 403 - 1.961 ms - message: Forbidden
+error: ::1 - GET /v1/users/getUsers 400 - 3.065 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers 400 - 2.385 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - POST /v1/users/getUsers 404 - 0.634 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers 400 - 2.663 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/6141c3ba3380e15704594dfb 404 - 0.692 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers/?6141c3ba3380e15704594dfb 400 - 2.529 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c3ba3380e15704594dfb 400 - 2.951 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c3ba3380e15704594dfb 400 - 4.380 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.286 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.257 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.162 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.216 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.305 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.379 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/userId=6141c3ba3380e15704594dfb 404 - 0.465 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers/userId=6141c3ba3380e15704594dfb 404 - 0.462 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers/?userId=6141c3ba3380e15704594dfb 400 - 2.324 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.849 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.230 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.169 ms - message: ""userId"" must be a valid mongo id
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 20.343 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 4.443 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.413 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.657 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 2.708 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 2.651 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 2.497 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 2.373 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 2.618 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 3.309 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 3.089 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?6141c6013380e15704594e07 400 - 2.464 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.349 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 5.745 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.223 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 3.074 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.393 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 3.086 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.434 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.256 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.514 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.668 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.181 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.459 ms - message: ""userId"" must be a valid mongo id
+info: ::1 - POST /v1/auth/login 200 - 65.756 ms
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 4.033 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.535 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/?userId=6141c6013380e15704594e07 400 - 2.592 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.461 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.116 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 4.480 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.110 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.208 ms - message: ""userId"" must be a valid mongo id
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/users/getUsers/ 400 - 20.141 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 4.072 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.592 ms - message: ""userId"" must be a valid mongo id
+info: Connected to MongoDB
+info: Listening to port 3000
+error: ::1 - GET /v1/users/getUsers/ 400 - 22.711 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.788 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.753 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.488 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.871 ms - message: ""userId"" must be a valid mongo id
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.896 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.581 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.181 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.560 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.578 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.499 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.301 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.289 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.270 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.206 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.402 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.309 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.076 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.457 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.541 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.415 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 3.061 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.975 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 400 - 2.155 ms - message: ""userId"" must be a valid mongo id
+error: ::1 - GET /v1/users/getUsers/ 401 - 1.161 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers/ 401 - 0.613 ms - message: Please authenticate
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/users/getUsers/ 401 - 7.950 ms - message: Please authenticate
+error: ::1 - GET /v1/users/getUsers/ 400 - 16.835 ms - message: ""userId"" must be a valid mongo id
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/users/getUsers/ 500 - 22.727 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 3.820 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 3.758 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 2.601 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 3.006 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 3.708 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 2.357 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+error: ::1 - GET /v1/users/getUsers/ 500 - 2.419 ms - message: Cast to ObjectId failed for value "getUsers" (type string) at path "_id" for model "User"
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/users/getUsers/ 404 - 6.290 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers/ 404 - 1.244 ms - message: Not found
+error: ::1 - GET /v1/users/getUsers/ 404 - 0.712 ms - message: Not found
+info: ::1 - GET /v1/users/ 200 - 20.825 ms
+info: ::1 - GET /v1/users/ 304 - 7.148 ms
+info: ::1 - GET /v1/users/ 304 - 7.118 ms
+info: ::1 - GET /v1/users/ 304 - 5.793 ms
+info: ::1 - GET /v1/users/ 304 - 5.191 ms
+error: ::1 - GET /v1/users/61419be51394e15084062b8f 404 - 0.497 ms - message: Not found
+info: ::1 - GET /v1/users/?userId=61419be51394e15084062b8f 200 - 4.934 ms
+error: ::1 - GET /v1/users/61419be51394e15084062b8f 404 - 0.540 ms - message: Not found
+error: ::1 - GET /v1/users/61419be51394e15084062b8f 404 - 0.510 ms - message: Not found
+error: ::1 - GET /v1/users/61419be51394e15084062b8f 404 - 0.549 ms - message: Not found
+info: ::1 - GET /v1/users/ 304 - 6.920 ms
+info: ::1 - GET /v1/users/ 304 - 5.007 ms
+info: ::1 - GET /v1/users/ 304 - 5.534 ms
+info: ::1 - GET /v1/users/ 304 - 6.317 ms
+info: ::1 - GET /v1/users/ 304 - 5.089 ms
+error: ::1 - GET /v1/users/61419d53b16bd43530bc3a59 404 - 0.524 ms - message: Not found
+error: ::1 - GET /v1/users/ 401 - 1.164 ms - message: Please authenticate
+error: ::1 - GET /v1/users/ 401 - 0.602 ms - message: Please authenticate
+error: ::1 - GET /v1/users/ 401 - 0.536 ms - message: Please authenticate
+error: ::1 - GET /v1/users/ 401 - 0.536 ms - message: Please authenticate
+error: ::1 - GET /v1/users/ 401 - 0.527 ms - message: Please authenticate
+info: ::1 - GET /v1/users/ 304 - 6.003 ms
+info: ::1 - GET /v1/users/ 304 - 4.831 ms
+info: ::1 - GET /v1/users/ 304 - 4.773 ms
+info: ::1 - GET /v1/users/ 304 - 4.669 ms
+info: ::1 - GET /v1/users/ 304 - 5.197 ms
+info: ::1 - GET /v1/users/ 304 - 6.560 ms
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - GET /v1/users/ 304 - 25.565 ms
+info: ::1 - GET /v1/users/6141c6013380e15704594e07 200 - 8.635 ms
+info: ::1 - GET /v1/users/ 304 - 5.666 ms
+info: ::1 - GET /v1/users/61419c591394e15084062ba1 200 - 4.846 ms
+info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 4.105 ms
+info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 6.391 ms
