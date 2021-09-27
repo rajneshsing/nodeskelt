@@ -28,9 +28,9 @@ const devRoutes = [
 defaultRoutes.forEach((route) => {
   router.use(route.path, route.route);
 });
-
+console.log(config.env)
 /* istanbul ignore next */
-if (config.env === 'development') {
+if (config.env === 'development' || config.env === 'test' || config.env === 'production') {
   devRoutes.forEach((route) => {
     router.use(route.path, route.route);
   });

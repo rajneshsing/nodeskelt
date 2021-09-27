@@ -266,3 +266,308 @@ info: ::1 - GET /v1/users/ 304 - 5.666 ms
 info: ::1 - GET /v1/users/61419c591394e15084062ba1 200 - 4.846 ms
 info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 4.105 ms
 info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 6.391 ms
+info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 4.547 ms
+info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 4.336 ms
+info: ::1 - GET /v1/users/61419c591394e15084062ba1 304 - 5.632 ms
+info: ::1 - GET /v1/users/ 304 - 6.546 ms
+info: ::1 - GET /v1/users/ 304 - 5.352 ms
+error: ::1 - GET /v1/users/ 401 - 2.083 ms - message: Please authenticate
+info: ::1 - GET /v1/users/ 304 - 6.815 ms
+info: ::1 - GET /v1/users/ 304 - 5.799 ms
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/auth/reset-password 404 - 4.847 ms - message: Not found
+error: ::1 - POST /v1/auth/reset-password 400 - 3.888 ms - message: "token" is required, "password" is required
+error: ::1 - POST /v1/auth/reset-password 400 - 15.342 ms - message: "token" is required, "email" is not allowed, "name" is not allowed
+error: ::1 - POST /v1/auth/reset-password 400 - 1.613 ms - message: "token" is required, "password" is required, "email" is not allowed
+error: ::1 - POST /v1/auth/forgot-password 500 - 2344.180 ms - message: getaddrinfo ENOTFOUND email-server
+error: ::1 - POST /v1/auth/forgot-password 500 - 2292.782 ms - message: getaddrinfo ENOTFOUND email-server
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - POST /v1/auth/forgot-password 500 - 2341.721 ms - message: getaddrinfo ENOTFOUND email-server
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - POST /v1/auth/forgot-password 500 - 2326.846 ms - message: getaddrinfo ENOTFOUND email-server
+error: ::1 - POST /v1/auth/forgot-password 500 - 2284.109 ms - message: getaddrinfo ENOTFOUND email-server
+info: ::1 - POST /v1/auth/login 200 - 59.794 ms
+error: ::1 - POST /v1/auth/forgot-password 500 - 2275.366 ms - message: getaddrinfo ENOTFOUND email-server
+info: Connected to MongoDB
+info: Listening to port 3000
+info: Connected to email server
+info: ::1 - POST /v1/auth/forgot-password 204 - 4290.553 ms
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - POST /v1/auth/login 200 - 346.420 ms
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+error: ::1 - GET /v1/docs 404 - 51.101 ms - message: Not found
+error: ::1 - GET /v1/docs 404 - 2.415 ms - message: Not found
+error: ::1 - GET /v1/docs 404 - 0.430 ms - message: Not found
+error: ::1 - GET /v1/docs 404 - 0.461 ms - message: Not found
+error: ::1 - GET /v1/docs 404 - 0.412 ms - message: Not found
+error: ::1 - GET /v1/ 404 - 0.457 ms - message: Not found
+error: ::1 - GET /v1/ 404 - 0.410 ms - message: Not found
+error: ::1 - GET /v1/ 404 - 0.422 ms - message: Not found
+error: ::1 - GET /v1/auth/register 404 - 1.371 ms - message: Not found
+error: ::1 - POST /v1/auth/register 400 - 3.577 ms - message: "email" is required, "password" is required, "name" is required
+error: ::1 - POST /v1/auth/register 400 - 1.064 ms - message: "email" is required, "password" is required, "name" is required
+error: ::1 - POST /v1/auth/register 400 - 1.063 ms - message: "email" is required, "password" is required, "name" is required
+error: ::1 - POST /v1/auth/register 400 - 1.123 ms - message: "email" is required, "password" is required, "name" is required
+error: ::1 - POST /v1/docs 404 - 0.497 ms - message: Not found
+error: ::1 - GET /v1/docs 404 - 0.692 ms - message: Not found
+error: ::1 - GET /favicon.ico 404 - 0.401 ms - message: Not found
+error: ::1 - POST /v1/docs 404 - 0.558 ms - message: Not found
+info: Connected to MongoDB
+info: Listening to port 3000
+error: ::1 - POST /v1/docs 404 - 6.981 ms - message: Not found
+error: ::1 - POST /v1/docs 404 - 1.098 ms - message: Not found
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - GET /v1/docs 301 - 1.832 ms
+info: ::1 - GET /v1/docs/ 200 - 128.253 ms
+info: ::1 - GET /v1/docs 301 - 0.734 ms
+info: ::1 - GET /v1/docs/ 200 - 1.817 ms
+info: ::1 - GET /v1/docs/swagger-ui-init.js 200 - 0.525 ms
+info: ::1 - GET /v1/docs/swagger-ui-standalone-preset.js 200 - 5.554 ms
+info: ::1 - GET /v1/docs/swagger-ui.css 200 - 36.027 ms
+info: ::1 - GET /v1/docs/swagger-ui-bundle.js 200 - 5.053 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 200 - 26.556 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.418 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.861 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 2.020 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.761 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.843 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.010 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.934 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.876 ms
+info: ::1 - GET /v1/docs/ 304 - 0.968 ms
+info: ::1 - GET /v1/docs/swagger-ui.css 304 - 2.192 ms
+info: ::1 - GET /v1/docs/swagger-ui-init.js 304 - 0.493 ms
+info: ::1 - GET /v1/docs/swagger-ui-bundle.js 304 - 2.903 ms
+info: ::1 - GET /v1/docs/swagger-ui-standalone-preset.js 304 - 0.755 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.087 ms
+info: ::1 - GET /v1/docs/ 304 - 0.759 ms
+info: Connected to MongoDB
+info: Listening to port 3000
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 4.059 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 2.250 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.186 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.053 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.015 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.182 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.254 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.668 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 0.736 ms
+info: ::1 - GET /v1/docs/ 304 - 3.873 ms
+info: ::1 - GET /v1/docs/ 304 - 1.866 ms
+info: ::1 - GET /v1/docs/swagger-ui.css 304 - 1.513 ms
+info: ::1 - GET /v1/docs/swagger-ui-init.js 304 - 0.493 ms
+info: ::1 - GET /v1/docs/swagger-ui-bundle.js 304 - 2.934 ms
+info: ::1 - GET /v1/docs/swagger-ui-standalone-preset.js 304 - 1.455 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.480 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.062 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.896 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.127 ms
+error: ::1 - GET /api/docs 404 - 3.916 ms - message: Not found
+info: ::1 - GET /v1/docs/ 304 - 1.182 ms
+info: ::1 - GET /v1/docs/swagger-ui.css 304 - 0.954 ms
+info: ::1 - GET /v1/docs/swagger-ui-standalone-preset.js 304 - 1.204 ms
+info: ::1 - GET /v1/docs/swagger-ui-init.js 304 - 0.470 ms
+info: ::1 - GET /v1/docs/swagger-ui-bundle.js 304 - 4.308 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.069 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 304 - 1.267 ms
+error: ::1 - POST /api/get 404 - 877.429 ms - message: Not found
+error: ::1 - POST /api/info 404 - 1.350 ms - message: Not found
+error: ::1 - POST /api/info 404 - 0.581 ms - message: Not found
+error: ::1 - POST /api/info 404 - 1.358 ms - message: Not found
+error: ::1 - POST /api/info 404 - 0.646 ms - message: Not found
+error: ::1 - POST /api/info 404 - 0.689 ms - message: Not found
+error: ::1 - POST /api/info 404 - 0.802 ms - message: Not found
+error: ::1 - POST /api/info 404 - 0.569 ms - message: Not found
+error: ::1 - POST /api/info 404 - 0.704 ms - message: Not found
+info: Connected to MongoDB
+info: Listening to port 3000
+error: ::1 - GET /v1/doc 404 - 5.073 ms - message: Not found
+warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+info: ::1 - GET /v1/docs 301 - 2.371 ms
+info: ::1 - GET /v1/docs/ 200 - 35.988 ms
+info: ::1 - GET /v1/docs/swagger-ui-init.js 200 - 0.666 ms
+info: ::1 - GET /v1/docs/swagger-ui.css 200 - 21.666 ms
+info: ::1 - GET /v1/docs/swagger-ui-standalone-preset.js 200 - 4.977 ms
+info: ::1 - GET /v1/docs/swagger-ui-bundle.js 200 - 4.511 ms
+info: ::1 - GET /v1/docs/swagger-ui.css.map 200 - 24.791 ms
+info: ::1 - GET /v1/docs/swagger-ui-standalone-preset.js.map 200 - 25.226 ms
+info: ::1 - GET /v1/docs/swagger-ui-bundle.js.map 200 - 27.172 ms
+info: ::1 - GET /v1/docs/favicon-32x32.png 200 - 11.397 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[33mwarn[39m: Unable to connect to email server. Make sure you have configured the SMTP options in .env
+[31merror[39m: Error: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+    at Object.openSync (node:fs:582:3)
+    at Object.readFileSync [as fileLoader] (node:fs:450:35)
+    at fileLoader (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:213:16)
+    at C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:240:20
+    at new Promise (<anonymous>)
+    at tryHandleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:238:14)
+    at Object.exports.renderFile (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:485:10)
+    at Object.sendResetPasswordEmail (C:\Users\CEINFO\expapp\src\services\email.service.js:34:26)
+    at C:\Users\CEINFO\expapp\src\controllers\auth.controller.js:31:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[31merror[39m: POST /v1/auth/forgot-password 500 - 883.655 ms - message: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[31merror[39m: Error: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+    at Object.openSync (node:fs:582:3)
+    at Object.readFileSync [as fileLoader] (node:fs:450:35)
+    at fileLoader (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:213:16)
+    at C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:240:20
+    at new Promise (<anonymous>)
+    at tryHandleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:238:14)
+    at Object.exports.renderFile (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:485:10)
+    at Object.sendResetPasswordEmail (C:\Users\CEINFO\expapp\src\services\email.service.js:34:26)
+    at C:\Users\CEINFO\expapp\src\controllers\auth.controller.js:31:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[31merror[39m: POST /v1/auth/forgot-password 500 - 43.735 ms - message: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+info: Connected to MongoDB
+info: Listening to port 3000
+info: Connected to email server
+error: ::1 - POST /v1/auth/forgot-password 500 - 42.299 ms - message: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+info: Connected to MongoDB
+info: Listening to port 3000
+info: Connected to email server
+error: ::1 - POST /v1/auth/forgot-password 500 - 45.078 ms - message: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[31merror[39m: Error: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+    at Object.openSync (node:fs:582:3)
+    at Object.readFileSync [as fileLoader] (node:fs:450:35)
+    at fileLoader (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:213:16)
+    at C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:240:20
+    at new Promise (<anonymous>)
+    at tryHandleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:238:14)
+    at Object.exports.renderFile (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:485:10)
+    at Object.sendResetPasswordEmail (C:\Users\CEINFO\expapp\src\services\email.service.js:34:26)
+    at C:\Users\CEINFO\expapp\src\controllers\auth.controller.js:31:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[31merror[39m: POST /v1/auth/forgot-password 500 - 46.971 ms - message: ENOENT: no such file or directory, open 'C:\Users\CEINFO\expapp\src\services/test.ejs'
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 3184.764 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[31merror[39m: ReferenceError: path is not defined
+    at Object.sendResetPasswordEmail (C:\Users\CEINFO\expapp\src\services\email.service.js:34:15)
+    at C:\Users\CEINFO\expapp\src\controllers\auth.controller.js:31:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[31merror[39m: POST /v1/auth/forgot-password 500 - 46.510 ms - message: path is not defined
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 43.173 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 54.339 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[31merror[39m: Error: ENOENT: no such file or directory, open '/template/users.ejs'
+    at Object.openSync (node:fs:582:3)
+    at Object.readFileSync [as fileLoader] (node:fs:450:35)
+    at fileLoader (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:213:16)
+    at C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:240:20
+    at new Promise (<anonymous>)
+    at tryHandleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:238:14)
+    at Object.exports.renderFile (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:485:10)
+    at Object.sendResetPasswordEmail (C:\Users\CEINFO\expapp\src\services\email.service.js:36:26)
+    at C:\Users\CEINFO\expapp\src\controllers\auth.controller.js:31:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[31merror[39m: POST /v1/auth/forgot-password 500 - 64.209 ms - message: ENOENT: no such file or directory, open '/template/users.ejs'
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[31merror[39m: Error: ENOENT: no such file or directory, open '../template/users.ejs'
+    at Object.openSync (node:fs:582:3)
+    at Object.readFileSync [as fileLoader] (node:fs:450:35)
+    at fileLoader (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:273:18)
+    at handleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:213:16)
+    at C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:240:20
+    at new Promise (<anonymous>)
+    at tryHandleCache (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:238:14)
+    at Object.exports.renderFile (C:\Users\CEINFO\node_modules\ejs\lib\ejs.js:485:10)
+    at Object.sendResetPasswordEmail (C:\Users\CEINFO\expapp\src\services\email.service.js:36:26)
+    at C:\Users\CEINFO\expapp\src\controllers\auth.controller.js:31:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[31merror[39m: POST /v1/auth/forgot-password 500 - 43.372 ms - message: ENOENT: no such file or directory, open '../template/users.ejs'
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 40.540 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 49.214 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 41.317 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server
+[32minfo[39m: POST /v1/auth/forgot-password 204 - 3162.615 ms
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Listening to port 3000
+[32minfo[39m: Connected to email server

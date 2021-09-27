@@ -1,7 +1,8 @@
 const nodemailer = require('nodemailer');
 const config = require('../config/config');
 const logger = require('../config/logger');
-
+const ejs = require("ejs");
+var path = require('path');
 const transport = nodemailer.createTransport(config.email.smtp);
 /* istanbul ignore next */
 if (config.env !== 'test') {
@@ -18,8 +19,8 @@ if (config.env !== 'test') {
  * @param {string} text
  * @returns {Promise}
  */
-const sendEmail = async (to, subject, text) => {
-  const msg = { from: config.email.from, to, subject, text };
+const sendEmail = async (to, subject, html) => {
+  const msg = { from: config.email.from, to, subject, html };
   await transport.sendMail(msg);
 };
 
@@ -31,12 +32,14 @@ const sendEmail = async (to, subject, text) => {
  */
 const sendResetPasswordEmail = async (to, token) => {
   const subject = 'Reset password';
+  //const html = await ejs.renderFile(path.join(__dirname, "../template/users.ejs"), { title: 'Welcome' }); // for another directory
+  const html = await ejs.renderFile(__dirname + "/users.ejs", { title: 'Welcome' });
   // replace this url with the link to the reset password page of your front-end app
   const resetPasswordUrl = `http://link-to-app/reset-password?token=${token}`;
-  const text = `Dear user,
+  /*const text = `Dear user,
 To reset your password, click on this link: ${resetPasswordUrl}
-If you did not request any password resets, then ignore this email.`;
-  await sendEmail(to, subject, text);
+If you did not request any password resets, then ignore this email.`;*/
+  await sendEmail(to, subject, html);
 };
 
 /**
